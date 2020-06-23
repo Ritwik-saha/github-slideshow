@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Taking patience test does not always mean make others wait
 Use the left arrow to go back!
